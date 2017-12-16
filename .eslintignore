@@ -1,0 +1,12 @@
+build
+webpack
+config
+
+commons/scripts/utilities/*.js
+commons/scripts/vendors/*.js
+commons/scripts/global.js
+
+
+# custom ignore file and folder
+*-ignore.*
+*-ignore

@@ -1,0 +1,56 @@
+header {
+    padding: 154px 0 100px;
+    background-image: url("../../images/img/firewall.jpg");
+    background-position: top center;
+}
+
+@media (min-width: 992px) {
+    header {
+        padding: 200px 0 180px;
+    }
+}
+
+section {
+    padding: 150px 0;
+}
+
+.service-single{
+    margin-top: 30px;
+    padding-bottom: 10px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 0 10px #e8e8e8;
+}
+.service-single .box-top{
+    background: #FFA500;
+    padding: 30px;
+    color: #fff;
+}
+.service-single .box-top i{
+    font-size: 50px;
+    padding: 20px 0;
+}
+.service-single .box-top h2{
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+.service-single .box-down{
+    max-width: 350px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 100%;
+    margin-top: -50px;
+    padding: 50px 25px 10px 25px;
+}
+.service-single .btn-holly{
+    background: #fff;
+    border:1px solid #f0f0f0;
+    border-radius: 20px;
+    color: #FFA500;
+}
+.service-single .btn-holly:hover{
+    background: #FFA500;
+    border-color: #FFA500;
+    color: #fff;
+}

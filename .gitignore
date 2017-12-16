@@ -1,0 +1,25 @@
+# npm
+node_modules
+npm-debug.log
+npm-debug.log.*
+
+# IDE
+.idea
+.DS_Store
+sh.exe.stackdump
+
+# Style
+styles.css
+
+# build and develop
+build
+
+# source code
+*.map
+
+# npm
+package-lock.json
+
+# Other
+*-ignore.*
+*-ignore

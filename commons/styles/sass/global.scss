@@ -1,0 +1,13 @@
+@use postcss-discard-comments(removeAll: true);
+
+@charset "UTF-8";
+
+@import "../vendors/bootstrap.min.css";
+
+/* Configuration */
+@import "./base/vars";
+@import "./base/fonts";
+@import "./base/base";
+
+/* pages */
+@import "../../../pages/*/styles/*.scss";

@@ -1,0 +1,12 @@
+files:
+  include:
+    - 'common/styles/sass/**/*.s+(a|c)ss'
+  ignore:
+    - 'common/styles/vendors/*'
+rules:
+  indentation:
+    - 4
+    -
+      size: 4
+options:
+  max-warnings: 13
