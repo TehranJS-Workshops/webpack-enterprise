@@ -1,3 +1,3 @@
-// import "./scripts/home";
+import "home.html";
 
 console.log("ok");
